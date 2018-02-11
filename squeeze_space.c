@@ -1,0 +1,1 @@
+/* replacing each string of one or more blanks by a single blank.*/
