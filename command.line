@@ -1,0 +1,12 @@
+mkdir clang
+cd clang
+echo "# clang" >> README.md
+git init
+more README.md
+git add README.md
+git config --global user.name "rubyker"
+git config --global user.email "rubyker@qq.com"
+git commit -m "first commit"
+# needs create repository clang in github
+git remote add origin https://github.com/rubyker/clang
+git push -u origin master
