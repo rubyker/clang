@@ -10,3 +10,5 @@ git commit -m "first commit"
 # needs create repository clang in github
 git remote add origin https://github.com/rubyker/clang
 git push -u origin master
+git push -u  # update local to remote
+git pull  # update remote to local
