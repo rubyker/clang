@@ -10,5 +10,6 @@ git commit -m "first commit"
 # needs create repository clang in github
 git remote add origin https://github.com/rubyker/clang
 git push -u origin master
+# if command.line changed, needs git add command.line, git commit -m "..."
 git push -u  # update local to remote
 git pull  # update remote to local
