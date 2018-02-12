@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+/* copies its input to its output one character at a time */
 int main()
 {
 	int ch;
