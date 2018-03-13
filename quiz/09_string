@@ -1,0 +1,29 @@
+1. Which of the following is a string literal?
+A. Static String
+B. "Static String"
+C. 'Static String'
+D. char string[100];
+
+2. What character ends all strings?
+A. '.'
+B. ' '
+C. '\0'
+D. '\n'
+
+3. Which of the following reads in a string named x with one hundred characters?
+A. fgets(x, 101, stdin);
+B. fgets(x, 100, stdin);
+C. readline(x, 100, '\n');
+D. read(x);
+
+4. Which of the following functions compares two strings?
+A. compare();
+B. stringcompare();
+C. cmp();
+D. strcmp();
+
+5. Which of the following adds one string to the end of another?
+A. append();
+B. stringadd();
+C. strcat();
+D. stradd();

@@ -1,0 +1,23 @@
+1. Which of the following is true?
+A. 1
+B. 66
+C. .1
+D. -1
+E. All of the above
+
+2. Which of the following is the boolean operator for logical-and?
+A. &
+B. &&
+C. |
+D. |&
+
+3. Evaluate !(1 && !(0 || 1)).
+A. True
+B. False
+C. Unevaluatable
+
+4. Which of the following shows the correct syntax for an if statement?
+A. if expression
+B. if { expression
+C. if ( expression )
+D. expression if

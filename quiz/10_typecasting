@@ -1,0 +1,31 @@
+1. Which header file do you need to include to use typecasting? 
+A. stdin.h
+B. ctype.h
+C. math.h
+D. None
+
+2. Which is a valid typecast?
+A. a(char);
+B. char:a;
+C. (char)a;
+D. to(char, a);
+
+3. Why can typecasting be dangerous?
+A. Some conversions are not defined, such as char to int.
+B. You might permanently change the value of the variable.
+C. You might temporarily lose part of the data - such as truncating a float when typecasting to an int.
+D. There are no dangers.
+
+
+4. Which is a good use for typecasting?
+A. To allow division of two integers to return a decimal value.
+B. To allow your program to use nothing but integers.
+C. To change the return type of a function.
+D. To swap variables rapidly.
+
+
+5. Which conversion is not possible?
+A. int to float
+B. float to int
+C. char to float
+D. All are possible

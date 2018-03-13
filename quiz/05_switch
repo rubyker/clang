@@ -1,0 +1,39 @@
+1. Which follows the case statement?
+A. :
+B. ;
+C. -
+D. A newline
+
+2. What is required to avoid falling through from one case to the next?
+A. end;
+B. break;
+C. Stop;
+D. A semicolon.
+
+3. What keyword covers unhandled possibilities?
+A. all
+B. contingency
+C. default
+D. other
+
+4. What is the result of the following code?
+int x=0;
+
+switch(x)
+
+{
+
+  case 1: printf( "One" );
+
+  case 0: printf( "Zero" );
+
+  case 2: printf( "Hello World" );
+
+}
+A. One
+B. Zero
+C. Hello World
+D. ZeroHello World
+
+ 
+

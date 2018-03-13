@@ -1,0 +1,23 @@
+1. What is the final value of x when the code int x; for(x=0; x<10; x++) {} is run?
+A. 10
+B. 9
+C. 0
+D. 1
+
+2. In the while statement, while(x<100)..., when does the statement controlled by the condition execute? 
+A. When x is less than one hundred
+B. When x is greater than one hundred
+C. When x is equal to one hundred
+D. While it wishes
+
+3. Which is not a loop structure?
+A. for
+B. do while
+C. while
+D. repeat until
+
+4. How many times is a do while loop guaranteed to loop?
+A. 0
+B. Infinitely
+C. 1
+D. Variable

@@ -1,0 +1,23 @@
+1. Which is not a proper prototype?
+A. int funct(char x, char y);
+B. double funct(char x)
+C. void funct();
+D. char x();
+
+2. What is the return type of the function with prototype: "int func(char x, float v, double t);"
+A. char
+B. int
+C. float
+D. double
+
+3. Which of the following is a valid function call (assuming the function exists)?
+A. funct;
+B. funct x, y;
+C. funct();
+D. int funct();
+
+4. Which of the following is a complete function?
+A. int funct();
+B. int funct(int x) {return x=x+1;}
+C. void funct(int) {printf( "Hello" ); 
+D. void funct(x) {printf( "Hello" ); }

@@ -1,0 +1,35 @@
+1. Which of the following is the proper declaration of a pointer?
+A. int x;
+B. int &x;
+C. ptr x;
+D. int *x;
+
+2. Which of the following gives the memory address of integer variable a?
+A. *a;
+B. a;
+C. &a;
+D. address(a);
+
+3. Which of the following gives the memory address of a variable pointed to by pointer a?
+A. a;
+B. *a;
+C. &a;
+D. address(a);
+
+4. Which of the following gives the value stored at the address pointed to by pointer a?
+A. a;
+B. val(a);
+C. *a;
+D. &a;
+
+5. Which of the following is the proper keyword or function to allocate memory in C?
+A. new
+B. malloc
+C. create
+D. value
+
+6. Which of the following is the proper keyword or function to deallocate memory?
+A. free
+B. delete
+C. clear
+D. remove

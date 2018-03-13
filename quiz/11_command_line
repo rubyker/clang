@@ -1,0 +1,29 @@
+1. What variables stores the number of arguments to a program?
+A. argc
+B. argv
+C count
+D. arglen
+
+2. What is argv[0]?
+A. The number of arguments to the program
+B. The name of the program
+C. The first argument to the program
+D. This syntax is illegal
+
+3. What type is argv?
+A. char * 
+B. int
+C. char **
+D. It's not a variable
+
+4. In what order do the two command line variables appear in the definition of main? 
+A. Count then argument array
+B. Argument array then count
+C. They don't appear in the definition of main 
+D. There is only one argument.
+
+5. What does the argument count variable store? 
+A. the number of arguments 
+B. the number of arguments plus one
+C. the number of arguments minus one 
+D. The total size of the argument array
